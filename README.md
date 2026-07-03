@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Owen Parker 👋
 
-<!--
-**owenparkeredu/owenparkeredu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Education Advisor at FindOurCollege, where I help students and families navigate the journey from high school to higher education.
 
-Here are some ideas to get you started:
+My work focuses on making college planning more approachable through practical guidance, educational resources, and personalized support for students preparing for college admissions and the Digital SAT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+
+- 🎓 College Planning & Admissions Guidance
+- 📚 Digital SAT Preparation
+- 🏛️ Higher Education Resources
+- 💡 Student Success & Academic Planning
+- 🔍 College Search & Decision-Making Strategies
+
+## About FindOurCollege
+
+FindOurCollege is an education platform designed to help students and parents make informed decisions about college admissions, SAT preparation, financial aid, and long-term academic planning.
+
+🌐 Website: https://www.findourcollege.com/
+
+📍 Austin, Texas, USA
